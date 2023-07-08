@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% @author: Ravi Ashok Pashchapur                                             %
+% @Date: 08/07/2023                                                          %
+% @Project: 3DOF Hover QUAD                                                  %
+% @Licence: MIT                                                              %
+% @Reference Documents: QUANSER 3DOF Hover Model                             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 clc
 clear
 close all
